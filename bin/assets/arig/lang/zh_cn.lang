@@ -1,9 +1,0 @@
-saltsheep.gui.recipe.confirm=确定
-saltsheep.gui.recipe.mode.0.true=有形配方-无视耐久
-saltsheep.gui.recipe.mode.0.false=有形配方-固定耐久
-saltsheep.gui.recipe.mode.1.true=无形配方-无视耐久
-saltsheep.gui.recipe.mode.1.false=无形配方-固定耐久
-saltsheep.gui.recipe.mode.2.true=全局有形配方-无视耐久
-saltsheep.gui.recipe.mode.2.false=全局有形配方-固定耐久
-saltsheep.gui.recipe.mode.3.true=全局无形配方-无视耐久
-saltsheep.gui.recipe.mode.3.false=全局无形配方-固定耐久

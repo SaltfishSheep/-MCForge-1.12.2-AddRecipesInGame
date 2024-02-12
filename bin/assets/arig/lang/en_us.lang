@@ -1,9 +1,0 @@
-saltsheep.gui.recipe.confirm=Confirm
-saltsheep.gui.recipe.mode.0.true=Shaped Recipe-Ignore Damage
-saltsheep.gui.recipe.mode.0.true=Shaped Recipe-Fixed Damage
-saltsheep.gui.recipe.mode.1.true=Shapeless Recipe-Ignore Damage
-saltsheep.gui.recipe.mode.1.true=Shapeless Recipe-Fixed Damage
-saltsheep.gui.recipe.mode.2.true=Global Shaped Recipe-Ignore Damage
-saltsheep.gui.recipe.mode.2.true=Global Shaped Recipe-Fixed Damage
-saltsheep.gui.recipe.mode.3.true=Global Shapeless Recipe-Ignore Damage
-saltsheep.gui.recipe.mode.3.true=Global Shapeless Recipe-Fixed Damage
